@@ -48,7 +48,7 @@ However, one of the main drawbacks of C++ is that it is syntactically much harde
 ## What is C++ used for?
 C++ is a general-purpose language developed whose design was motivated by a need for a language that provided high-level abstraction but also closely managed system resources and hardware at the lower levels. This blend of capabilities has made C++ suitable for several kinds of applications, notably including system software, mobile applications, mainframes and mission-critical applications.
 
-### Computer Applications and Mobile Appliactions
+### Computer Applications and Mobile Applications
 The primary use case for C++ has traditionally been in system software development. The language’s rich set of built-in functionalities and its ability to operate close to system hardware make it an optimal choice for developing operating systems, file systems and system drivers. For example, much of Microsoft Windows and carious Unix/Linux systems have been extensively developed using C++. The ability to manage memory usage explicitly and optimize performance makes C++ particularly useful in these areas, where efficiency is crucial.
 
 While not originally designed for mobile development, C++ has found a significant niche in this field. It’s commonly used for game development or applications requiring high performance on mobile platforms. The language’s speed and the control it offers over system resources make it ideal for mobile games or applications that demand high-performance computation and graphics processing. Developers can use C++ to build parts of their applications that need to maximize the hardware’s capabilities, often in combination with higher-level languages.
