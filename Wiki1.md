@@ -11,3 +11,19 @@ This idea would lead him to create the first iteration of C++ known as C with cl
 However, before C with classes was released to the public in 1983 the language was renamed to C++ by Rick Mascitti. The ++ referencing the increment operator that was actually not existent in the previous C language. This version of C++ would also be given more additional features to the language like virtual functions, improved type-checking and C++ style comments, and references.
 	  
 It wouldn’t be until 1985 when C++ would become a mainstream programming language with the release of the first edition manual of 'The C++ Programming Language’. During this time period would also bring new features to C++ with a new system called CFont. CFont would allow the translation of C++ into C programs which aided in the development of complex programs. 
+
+<!--- Jackson place your portion here -->
+<!--- Jackson place your portion here -->
+<!--- Jackson place your portion here -->
+
+C++ is a general-purpose language developed whose design was motivated by a need for a language that provided high-level abstraction but also closely managed system resources and hardware at the lower levels. This blend of capabilities has made C++ suitable for several kinds of applications, notably including system software, mobile applications, mainframes and mission-critical applications.
+
+The primary use case for C++ has traditionally been in system software development. The language’s rich set of built-in functionalities and its ability to operate close to system hardware make it an optimal choice for developing operating systems, file systems and system drivers. For example, much of Microsoft Windows and carious Unix/Linux systems have been extensively developed using C++. The ability to manage memory usage explicitly and optimize performance makes C++ particularly useful in these areas, where efficiency is crucial.
+
+While not originally designed for mobile development, C++ has found a significant niche in this field. It’s commonly used for game development or applications requiring high performance on mobile platforms. The language’s speed and the control it offers over system resources make it ideal for mobile games or applications that demand high-performance computation and graphics processing. Developers can use C++ to build parts of their applications that need to maximize the hardware’s capabilities, often in combination with higher-level languages.
+
+Mainframe computers, which are critical for large-scale and enterprise-level applications requiring robust processing power, also rely on C++. Although not the most highlighted use case, C++ is used in mainframe environments to leverage its performance efficiency and low-level operation capabilities. Mainframes typically run applications such as large databases, transaction processing systems and applications requiring high-speed data processing. C++ features support these needs very effectively.
+
+One of the most essential critical areas for C++ is in mission-critical applications where performance, reliability and direct hardware interaction are of utmost importance. Examples include applications for aviation control systems, medical systems and automotive safety systems. The reliability and fine control over hardware interactions that C++ offers are indispensable in these situations where a failure could result in significant consequences.
+
+In summary, while C++ was originally designed with systems programming in mind, its versatility has allowed it to be adapted successfully across various other domains, including mobile development, mainframes and mission-critical applications. This adaptability and performance-oriented nature confirm C++ as a foundational tool in the many options of modern programming languages.
