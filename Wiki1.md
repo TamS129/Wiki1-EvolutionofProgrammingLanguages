@@ -1,7 +1,9 @@
 # The Evolution of C++ Programming Language
 ## Written by: Ken Cage, Jackson Kettel, Kelvin Rajbhandari, Tamara Slone
+![Intro Image](Images/06ff5852-8877-4504-a8b2-a61f884ad8cd.webp)
 ## Introduction
 The creation of the original C programming language was created by Dennis Ritchie in 1970 at Bell Labs. Once the C programming language had been introduced, other programmers within Bell Labs began experimenting with the capabilities of their new program. This experimentation would later lead Danish computer scientist Bjarne Stroustrup in 1979 to create an expansion of the C language that allowed for both high-level and low-level programming (also known as Middle-level programming) called C++.
+![The Creator](Images/images.jpg)
 
 ## The History of C++
 During his time working for Bell Labs, Bjarne Stroustrup was working on his PHD thesis for the Computing Laboratory of Cambridge University. He originally worked with a programming language known as Simula and enjoyed the object-oriented class structure that Simula provided. However, during his thesis Bjarne noticed that the programming language did not scale well for the simulator he had created. Although Simula did not help him complete his thesis. Simula would inspire Bjarne to create a new C language that would allow for programmers to build complex systems using high-level abstract programming while also having an ability to access the hardware using low-level programming. 
@@ -44,6 +46,7 @@ Along with this, C++ does not have a built-in garbage collector. While this may 
 
 However, one of the main drawbacks of C++ is that it is syntactically much harder to learn than other languages like Python, which is comparatively much simpler to write similar algorithms. This can be attributed to it being a lower level language than Python, giving the application more control over the hardware components at the price of increased complexity of the code. Another disadvantage of the language is that not having a built-in garbage collector can result in more memory leaks if memory is not properly deallocated. Lastly, C++ is primarily used on platform specific programs and systems, which makes its use cases more limited than a language like Python that has a wide range of use cases.
 
+![Pretty Picture](Images/1694874349830.jpg)
 
 ## What is C++ used for?
 C++ is a general-purpose language developed whose design was motivated by a need for a language that provided high-level abstraction but also closely managed system resources and hardware at the lower levels. This blend of capabilities has made C++ suitable for several kinds of applications, notably including system software, mobile applications, mainframes and mission-critical applications.
@@ -76,3 +79,5 @@ It is likely that C++ will remain prominent in many applications in the future d
 ### Where C++ will be replaced
 
 Despite having such a large presence in the current developer landscape, there are some indications that C++ may start to decline in popularity in favor of other languages. The main applications that will likely see a major decline in C++ will be desktop, mobile, and web applications. Many of these types of applications do not require a high degree of optimization in order to function properly, so developers prefer to use languages with more readable and simplistic syntax like Python, Swift, or Kotlin. As the frameworks and libraries for these applications grow for other languages, C++ will likely become more obsolete in the future. For the future of applications that C++ excels at, Rust is a programming language that is growing in popularity in system programming and embedded systems. While it currently does not have the same size of ecosystem and amount of legacy code as C++, its improved memory safety and modern tooling makes it a serious contender to potentially overtake C++ on many different applications.
+
+![TimelineGraph](Images/TimelineGraphic.png)
