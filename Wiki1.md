@@ -33,9 +33,17 @@ After the realease of C++ 03 there would be a gap in time before the next veriso
 In 2017 C++ 17 would be realeased as the next major update to C++. Although many programmers were expected major updates such as concepts and coroutines, sadly these did not appears within this verison of C++. However there were many other features added to the program such as inline variables, fold expressions, explicit test in conditions, and hexadecimal floating-point literals. However, the major features that were not included in C++17 would be found in the 2020 verison C++ 20. C++ 20 would include all the missing features such as cororoutines, concepts, and modules. 
 
 ## The Pros and Cons of C++
-<!--- Jackson place your portion here -->
-<!--- Jackson place your portion here -->
-<!--- Jackson place your portion here -->
+
+### Atvantages
+
+One of the primary advantages of C++ is allowing programs to have more control over memory management. The language allows you to create pointers, references, and dynamically allocate memory on the heap. These features can increase the performance of programs run on higher-level language programs such as Python, which does not give programs the same level of control over memory.
+Along with this, C++ does not have a built-in garbage collector. While this may lead to memory leaks as a result of programmers forgetting to deallocate dynamic memory, it increases the performance of programs due to their being less overhead like in Python. Since C++ has been in use for a considerable amount of time, it boasts a very large ecosystem of libraries and frameworks, giving developers many tools for their application needs.
+
+
+### Disatvantages
+
+However, one of the main drawbacks of C++ is that it is syntactically much harder to learn than other languages like Python, which is comparatively much simpler to write similar algorithms. This can be attributed to it being a lower level language than Python, giving the application more control over the hardware components at the price of increased complexity of the code. Another disadvantage of the language is that not having a built-in garbage collector can result in more memory leaks if memory is not properly deallocated. Lastly, C++ is primarily used on platform specific programs and systems, which makes its use cases more limited than a language like Python that has a wide range of use cases.
+
 
 ## What is C++ used for?
 C++ is a general-purpose language developed whose design was motivated by a need for a language that provided high-level abstraction but also closely managed system resources and hardware at the lower levels. This blend of capabilities has made C++ suitable for several kinds of applications, notably including system software, mobile applications, mainframes and mission-critical applications.
@@ -61,3 +69,11 @@ C++ also plays a pivotal role in educational and professional development contex
 Overall, C++ continues to be a cornerstone in the programming world, adapting to new challenges and technological advances while supporting a wide array of applications and development needs.
 
 ## The Future of C++
+
+### Where C++ will be used
+
+It is likely that C++ will remain prominent in many applications in the future due to its ability to have low-level interaction with hardware. Its use in developing operating systems, embedded systems, and other low-level software that interfaces hardware will likely remain for the foreseeable future as many other competing languages do not have the ecosystem or performance capabilities. Another area C++ will continue to grow in is game development and virtual reality. Due to the high performance demands of modern video games and simulations in virtual/augmented reality, having the ability to improve performance is critical for games to run smoothly. Lastly, C++ will still be widely used in performance critical applications and back-end infrastructure for artificial intelligence infrastructure as a result of needing a high degree of optimization for performance.
+
+### Where C++ will be replaced
+
+Despite having such a large presence in the current developer landscape, there are some indications that C++ may start to decline in popularity in favor of other languages. The main applications that will likely see a major decline in C++ will be desktop, mobile, and web applications. Many of these types of applications do not require a high degree of optimization in order to function properly, so developers prefer to use languages with more readable and simplistic syntax like Python, Swift, or Kotlin. As the frameworks and libraries for these applications grow for other languages, C++ will likely become more obsolete in the future. For the future of applications that C++ excels at, Rust is a programming language that is growing in popularity in system programming and embedded systems. While it currently does not have the same size of ecosystem and amount of legacy code as C++, its improved memory safety and modern tooling makes it a serious contender to potentially overtake C++ on many different applications.
