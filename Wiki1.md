@@ -34,13 +34,13 @@ In 2017 C++ 17 would be realeased as the next major update to C++. Although many
 
 ## The Pros and Cons of C++
 
-### Atvantages
+### Advantages
 
 One of the primary advantages of C++ is allowing programs to have more control over memory management. The language allows you to create pointers, references, and dynamically allocate memory on the heap. These features can increase the performance of programs run on higher-level language programs such as Python, which does not give programs the same level of control over memory.
 Along with this, C++ does not have a built-in garbage collector. While this may lead to memory leaks as a result of programmers forgetting to deallocate dynamic memory, it increases the performance of programs due to their being less overhead like in Python. Since C++ has been in use for a considerable amount of time, it boasts a very large ecosystem of libraries and frameworks, giving developers many tools for their application needs.
 
 
-### Disatvantages
+### Disadvantages
 
 However, one of the main drawbacks of C++ is that it is syntactically much harder to learn than other languages like Python, which is comparatively much simpler to write similar algorithms. This can be attributed to it being a lower level language than Python, giving the application more control over the hardware components at the price of increased complexity of the code. Another disadvantage of the language is that not having a built-in garbage collector can result in more memory leaks if memory is not properly deallocated. Lastly, C++ is primarily used on platform specific programs and systems, which makes its use cases more limited than a language like Python that has a wide range of use cases.
 
@@ -48,25 +48,24 @@ However, one of the main drawbacks of C++ is that it is syntactically much harde
 ## What is C++ used for?
 C++ is a general-purpose language developed whose design was motivated by a need for a language that provided high-level abstraction but also closely managed system resources and hardware at the lower levels. This blend of capabilities has made C++ suitable for several kinds of applications, notably including system software, mobile applications, mainframes and mission-critical applications.
 
+### Computer Applications and Mobile Appliactions
 The primary use case for C++ has traditionally been in system software development. The language’s rich set of built-in functionalities and its ability to operate close to system hardware make it an optimal choice for developing operating systems, file systems and system drivers. For example, much of Microsoft Windows and carious Unix/Linux systems have been extensively developed using C++. The ability to manage memory usage explicitly and optimize performance makes C++ particularly useful in these areas, where efficiency is crucial.
 
 While not originally designed for mobile development, C++ has found a significant niche in this field. It’s commonly used for game development or applications requiring high performance on mobile platforms. The language’s speed and the control it offers over system resources make it ideal for mobile games or applications that demand high-performance computation and graphics processing. Developers can use C++ to build parts of their applications that need to maximize the hardware’s capabilities, often in combination with higher-level languages.
 
+### Mainframe Computers and Mission Critical Applications
 Mainframe computers, which are critical for large-scale and enterprise-level applications requiring robust processing power, also rely on C++. Although not the most highlighted use case, C++ is used in mainframe environments to leverage its performance efficiency and low-level operation capabilities. Mainframes typically run applications such as large databases, transaction processing systems and applications requiring high-speed data processing. C++ features support these needs very effectively.
 
 One of the most essential critical areas for C++ is in mission-critical applications where performance, reliability and direct hardware interaction are of utmost importance. Examples include applications for aviation control systems, medical systems and automotive safety systems. The reliability and fine control over hardware interactions that C++ offers are indispensable in these situations where a failure could result in significant consequences.
 
-In summary, while C++ was originally designed with systems programming in mind, its versatility has allowed it to be adapted successfully across various other domains, including mobile development, mainframes and mission-critical applications. This adaptability and performance-oriented nature confirm C++ as a foundational tool in the many options of modern programming languages.
-
+### The Legacy of C++
 C++ remains a significant and actively used programming language in the software development landscape as of 2023. Its usage spans various domains, illustrating its adaptability and enduring relevance. Notably, C++ is not just maintained for legacy systems but is also employed in modern software development, including systems programming, game development, and real-time applications.
 
 The adoption of new C++ standards like C++20 and C++23 shows a vibrant and evolving ecosystem. Innovations in these standards, such as modules and ranges, are designed to improve code quality and maintainability. According to a 2023 developer ecosystem survey by JetBrains, a majority of C++ users have transitioned to the more recent standards (C++14 and later), indicating that the language is far from being merely legacy.
 
-In terms of tooling and integration, the landscape is diverse. Modern C++ development environments support extensive toolchains that include advanced IDEs like CLion and Visual Studio, which offer features tailored to contemporary C++ programming needs. These tools facilitate better code management and integration with other programming languages and technologies, which is crucial given the language's widespread use in complex and varied projects.
+In terms of tooling and integration, the landscape is diverse. Modern C++ development environments support extensive toolchains that include advanced IDEs like CLion and Visual Studio, which offer features tailored to contemporary C++ programming needs. These tools facilitate better code management and integration with other programming languages and technologies, which is crucial given the language's widespread use in complex and varied projects. C++ also plays a pivotal role in educational and professional development contexts, with continuous updates and features that cater to both new and seasoned developers. 
 
-C++ also plays a pivotal role in educational and professional development contexts, with continuous updates and features that cater to both new and seasoned developers. The language's ability to work closely with hardware makes it indispensable for performance-critical applications, which is why it remains a preferred choice in sectors like embedded systems, video game development, and high-performance computing.
-
-Overall, C++ continues to be a cornerstone in the programming world, adapting to new challenges and technological advances while supporting a wide array of applications and development needs.
+In summary, while C++ was originally designed with systems programming in mind, its versatility has allowed it to be adapted successfully across various other domains, including mobile development, mainframes and mission-critical applications. This adaptability and performance-oriented nature confirm C++ as a foundational tool in the many options of modern programming languages. C++ continues to be a cornerstone in the programming world, adapting to new challenges and technological advances while supporting a wide array of applications and development needs.
 
 ## The Future of C++
 
