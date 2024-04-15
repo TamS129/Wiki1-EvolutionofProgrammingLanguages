@@ -3,7 +3,7 @@
 ## Introduction
 The creation of the original C programming language was created by Dennis Ritchie in 1970 at Bell Labs. Once the C programming language had been introduced, other programmers within Bell Labs began experimenting with the capabilities of their new program. This experimentation would later lead Danish computer scientist Bjarne Stroustrup in 1979 to create an expansion of the C language that allowed for both high-level and low-level programming (also known as Middle-level programming) called C++.
 
-## The Evolution of C++
+## The History of C++
 During his time working for Bell Labs, Bjarne Stroustrup was working on his PHD thesis for the Computing Laboratory of Cambridge University. He originally worked with a programming language known as Simula and enjoyed the object-oriented class structure that Simula provided. However, during his thesis Bjarne noticed that the programming language did not scale well for the simulator he had created. Although Simula did not help him complete his thesis. Simula would inspire Bjarne to create a new C language that would allow for programmers to build complex systems using high-level abstract programming while also having an ability to access the hardware using low-level programming. 
     
 ### Pre-Public Release 
@@ -32,12 +32,12 @@ After the realease of C++ 03 there would be a gap in time before the next veriso
 
 In 2017 C++ 17 would be realeased as the next major update to C++. Although many programmers were expected major updates such as concepts and coroutines, sadly these did not appears within this verison of C++. However there were many other features added to the program such as inline variables, fold expressions, explicit test in conditions, and hexadecimal floating-point literals. However, the major features that were not included in C++17 would be found in the 2020 verison C++ 20. C++ 20 would include all the missing features such as cororoutines, concepts, and modules. 
 
-
+## The Pros and Cons of C++
 <!--- Jackson place your portion here -->
 <!--- Jackson place your portion here -->
 <!--- Jackson place your portion here -->
 
-
+## What is C++ used for?
 C++ is a general-purpose language developed whose design was motivated by a need for a language that provided high-level abstraction but also closely managed system resources and hardware at the lower levels. This blend of capabilities has made C++ suitable for several kinds of applications, notably including system software, mobile applications, mainframes and mission-critical applications.
 
 The primary use case for C++ has traditionally been in system software development. The language’s rich set of built-in functionalities and its ability to operate close to system hardware make it an optimal choice for developing operating systems, file systems and system drivers. For example, much of Microsoft Windows and carious Unix/Linux systems have been extensively developed using C++. The ability to manage memory usage explicitly and optimize performance makes C++ particularly useful in these areas, where efficiency is crucial.
@@ -60,4 +60,4 @@ C++ also plays a pivotal role in educational and professional development contex
 
 Overall, C++ continues to be a cornerstone in the programming world, adapting to new challenges and technological advances while supporting a wide array of applications and development needs.
 
-
+## THe Future of C++
