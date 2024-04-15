@@ -7,26 +7,26 @@ The creation of the original C programming language was created by Dennis Ritchi
 During his time working for Bell Labs, Bjarne Stroustrup was working on his PHD thesis for the Computing Laboratory of Cambridge University. He originally worked with a programming language known as Simula and enjoyed the object-oriented class structure that Simula provided. However, during his thesis Bjarne noticed that the programming language did not scale well for the simulator he had created. Although Simula did not help him complete his thesis. Simula would inspire Bjarne to create a new C language that would allow for programmers to build complex systems using high-level abstract programming while also having an ability to access the hardware using low-level programming. 
     
 ### Pre-Public Release 
-### 1979 - 1983
+### (1979 - 1983)
 This idea would lead him to create the first iteration of C++ known as C with classes. The name C with classes refers to the class structures that were implemented into the language. C with classes was an extension of the C language that included the above-mentioned class structures, polymorphism, abstraction, and inheritance. C with classes allowed programmers to write modular and efficient code without the limitations that other high-level programs such as Simula had. Due to the fact that C with classes was a language built using the already existing C language, compilers had already been implemented for many platforms at the time. Making the portability of C with classes much easier for general use programming. C with classes also improved the security issues that the original C language had been struggling with at the time. Leading for more efficient and safer features than its original predecessor.
     
 However, before C with classes was released to the public in 1983 the language was renamed to C++ by Rick Mascitti. The ++ referencing the increment operator that was actually not existent in the previous C language. This version of C++ would also be given more additional features to the language like virtual functions, improved type-checking and C++ style comments, and references.
 
 ### Post Public Release and Pre-Standardization 
-### 1983 - 1991
+### (1983 - 1991)
 It wouldn’t be until 1985 when C++ would become a mainstream programming language with the release of the first edition manual of 'The C++ Programming Language’. During this time period would also bring new features to C++ with a new system called CFont. CFont would allow the translation of C++ into C programs which aided in the development of complex programs. There would be another upgrade to C++ in 1989 called C++ 2.0. This 2.0 addition would upgrade the stability of it's definitions and implementations. Some of these upgrades included multiple inheritences, type-safe linkage, improvements to overload functions and user-defined memory management. This verison to C++ also brought in big changes to the language with the addition of the ability to overload the operator and pointers to memebers. 
 
 However, this verison of C++ would once again be updated in 1991 with the addition of C++ 3.0. Although this verison of C++ did not add a lot of changes to the orginal verison. One big feature that was included in 3.0 was class and function templates.  This verison of C++ would be the last update to the language before it's offical global standardization. Although there were plans at Bell Labs to realease another verison of the language called C++ 4.0 in 1993. The plans for this verison of C++ never were released.
 
 ### Standardization to Embedded C++
-### 1991 - 2003
+### (1991 - 2003)
 
 The standardization of C++ began in the 1989 with the work of Hewlett-Packard with Bell Labs, DEC, and IBM. In 1991 ISO standarization of C++ 98 had become offical and joint meetings are still held today to dicuss how to improve the language. Standardization of C++ was important because it allowed adding in new features that improved the language and also fixed issues regarding programmers who could not use C++ because of dialect differences. One of the major changes regarding the addition of the Standard Template Library (STL). The STL would add many features such as Real-time type information, Cast operators, Bools, declarations in conditions, and more. However, C++98 would soon be replaced by C++03 in 2003 as the standard language for C++. C++03 didn't add any new features to C++. Instead C++ 03 was focused on bug fixes that allowed for better consistency and portability. 
 
 During the same time of C++ 03's realease, Japanese companies Toshiba, Hitachi, Fujitsu, and NEC proposed for different subset of C++. This version of C++ would be known as Embedded C++. Embedded C++ was intended as a embedded systems programming language that restricted language features that could hurt performance or features that were precieved as too difficult for their programmers. Some of the features that were banned by Embedded C++ were multiple inheritance, templates, exceptions, RTTI, and more. This Embedded C++ was not recongized as a standardize language but it did encourage the committee to look into how many different ways C++ could be used to benefit businesses. The committee would release a technical report talking about the performance issues that C++ had current faced and would beginning planning on how to upgrade their language.
 
 ### C++11 to C++20
-### 2011 - Present 
+### (2011 - Present) 
 
 After the realease of C++ 03 there would be a gap in time before the next verison of C++ would emerge. In 2011 C++ 11 would be released as the next standard version of C++. C++ 11 was a massive overhaul for the language and added a lot of new features. These features included Enum classes, template aliases, functions such as static_asert, lambdas, raw string literals, user-defined literals, and many other features that were added in. There was also a massive additions to the STL that allowed for an easier access to libraries. C++ 11 also improved it's efficency with allowing move semantics that limited the amount of unessiary copies of reasources within the code. Shortly after the release of C++ 11, in 2014 C++ 14 would be released. C++ 14 was implemented in order to "complete" C++11 and included even more features. Some of the new features would include function return type deduction, generic lambdas, binary literals, and more. 
 
@@ -60,4 +60,4 @@ C++ also plays a pivotal role in educational and professional development contex
 
 Overall, C++ continues to be a cornerstone in the programming world, adapting to new challenges and technological advances while supporting a wide array of applications and development needs.
 
-## THe Future of C++
+## The Future of C++
