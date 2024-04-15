@@ -81,3 +81,20 @@ It is likely that C++ will remain prominent in many applications in the future d
 Despite having such a large presence in the current developer landscape, there are some indications that C++ may start to decline in popularity in favor of other languages. The main applications that will likely see a major decline in C++ will be desktop, mobile, and web applications. Many of these types of applications do not require a high degree of optimization in order to function properly, so developers prefer to use languages with more readable and simplistic syntax like Python, Swift, or Kotlin. As the frameworks and libraries for these applications grow for other languages, C++ will likely become more obsolete in the future. For the future of applications that C++ excels at, Rust is a programming language that is growing in popularity in system programming and embedded systems. While it currently does not have the same size of ecosystem and amount of legacy code as C++, its improved memory safety and modern tooling makes it a serious contender to potentially overtake C++ on many different applications.
 
 ![TimelineGraph](Images/TimelineGraphic.png)
+
+
+## Sources
+[1]
+F. van den Beuken, “History of C++ | Perforce,” www.perforce.com, Nov. 29, 2023. https://www.perforce.com/blog/qac/misra-cpp-history
+
+[2]
+S. Goyal, “The History Of C++ (With Timeline Infographic) ,” unstop.com, Apr. 17, 2023. https://unstop.com/blog/history-of-cpp (accessed Apr. 15, 2024).
+
+[3]
+“Advantages and Disadvantages of C++,” GeeksforGeeks, Dec. 30, 2020. https://www.geeksforgeeks.org/advantages-and-disadvantages-of-cpp/
+
+[4]
+“Will C++ Be Replaced? Predicting The Future Of The Language - Code With C,” Dec. 29, 2023. https://www.codewithc.com/will-c-be-replaced-predicting-the-future-of-the-language/
+
+[5]
+“What Is C++ Used For? Top 12 Real-World Applications and Uses of C++,” Softwaretestinghelp.com, Nov. 10, 2019. https://www.softwaretestinghelp.com/cpp-applications/
